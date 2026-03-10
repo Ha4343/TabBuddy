@@ -41,11 +41,7 @@ TabBuddy runs using a **Manifest V3 Chrome extension**. The key files include:
 ## 🔧 Customization  
 - Edit `popup.js` to change the **tab limit** before the warning appears.  
 - Modify `popup.css` for a custom theme.  
-
----
-
-## 🏆 Contributing  
-Got ideas? Fork this repo, make changes, and submit a **pull request**!  
+ 
 
 ---
 
@@ -54,4 +50,4 @@ This project is **open-source** under the [MIT License](LICENSE).
 
 ---
 
-Happy browsing! 🚀  
+ 
